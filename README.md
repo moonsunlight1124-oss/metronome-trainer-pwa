@@ -18,7 +18,7 @@ npm install
 npm run dev
 ```
 
-Open the printed local URL (default http://localhost:5173).
+Open the printed local URL in your browser.
 
 ### Build
 ```bash
